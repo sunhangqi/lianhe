@@ -207,8 +207,7 @@
 				TargetAttributes = {
 					1850DE621DB7CB1500663231 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = PZF92Q688L;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 					1850DE7B1DB7CB1500663231 = {
 						CreatedOnToolsVersion = 8.0;
@@ -425,8 +424,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = PZF92Q688L;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = lianhe/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = dahua.lianhe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -437,8 +437,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = PZF92Q688L;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = lianhe/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = dahua.lianhe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
